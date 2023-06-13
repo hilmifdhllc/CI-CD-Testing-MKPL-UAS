@@ -13,7 +13,7 @@ import java.util.Map;
 public class ThemeLoader {
 
     private ThemeLoader() {
-        throw new AssertionError("Jeremia is not allowed");
+        throw new AssertionError("User is not allowed");
     }
 
     public static Map<String, Theme> loadThemes() {
