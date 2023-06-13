@@ -10,9 +10,9 @@ import java.io.IOException;
 import java.util.Collections;
 import java.util.Map;
 
-public class ThemeLoader {
+public class ThemeCalculatorLoader {
 
-    private ThemeLoader() {
+    private ThemeCalculatorLoader() {
         throw new AssertionError("User is not allowed");
     }
 
